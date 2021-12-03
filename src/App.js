@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <gc-ds-button label="Look at me"></gc-ds-button>
+        <gc-ds-button label="This button is in React"></gc-ds-button>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
