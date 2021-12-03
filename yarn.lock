@@ -1544,6 +1544,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@stencil/core@^2.7.0":
+  "integrity" "sha512-/IubCWhVXCguyMUp/3zGrg3c882+RJNg/zpiKfyfJL3kRCOwe+/MD8OoAXVGdd+xAohZKIi1Ik+EHFlsptsjLg=="
+  "resolved" "https://registry.npmjs.org/@stencil/core/-/core-2.11.0.tgz"
+  "version" "2.11.0"
+
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   "integrity" "sha512-yBMPqmd1yEJo/280PAMkychuaALyQ9Lkb5q1ck3mjJrFuEobIfhnQ4J3mbvBoISmR3SWMWV+cGB/I0lCQee79A=="
   "resolved" "https://registry.npmjs.org/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-1.4.2.tgz"
@@ -5372,6 +5377,13 @@
   "integrity" "sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc="
   "resolved" "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz"
   "version" "1.0.1"
+
+"gc-ds-button@^0.0.2":
+  "integrity" "sha512-L56QUKBZgFy7a6G+JExfodX7snu6Lw0S6t84OLwWQCdGnrEfK0e0XhQ7fj7Oce+8xHZBbweb63qXywdf+4umIw=="
+  "resolved" "https://registry.npmjs.org/gc-ds-button/-/gc-ds-button-0.0.2.tgz"
+  "version" "0.0.2"
+  dependencies:
+    "@stencil/core" "^2.7.0"
 
 "gensync@^1.0.0-beta.1":
   "integrity" "sha512-3hN7NaskYvMDLQY55gnW3NQ+mesEAepTqlg+VEbj7zzqEMBVNhzcGYYeqFo/TlYz6eQiFcp1HcsCZO+nGgS8zg=="

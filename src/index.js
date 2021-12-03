@@ -4,12 +4,19 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { applyPolyfills, defineCustomElements } from 'gc-ds-button/loader';
+import 'gc-ds-button/dist/gc-ds-button/gc-ds-button.css'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+applyPolyfills().then(() => {
+  defineCustomElements(window);
+});
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
