@@ -1,23 +1,36 @@
 {
   "files": {
     "main.css": "/react-ds-component-demo/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-ds-component-demo/static/js/main.893bbf91.chunk.js",
-    "main.js.map": "/react-ds-component-demo/static/js/main.893bbf91.chunk.js.map",
-    "runtime-main.js": "/react-ds-component-demo/static/js/runtime-main.5f276197.js",
-    "runtime-main.js.map": "/react-ds-component-demo/static/js/runtime-main.5f276197.js.map",
-    "static/js/2.9dbe7a97.chunk.js": "/react-ds-component-demo/static/js/2.9dbe7a97.chunk.js",
-    "static/js/2.9dbe7a97.chunk.js.map": "/react-ds-component-demo/static/js/2.9dbe7a97.chunk.js.map",
-    "static/js/3.ca6e5efd.chunk.js": "/react-ds-component-demo/static/js/3.ca6e5efd.chunk.js",
-    "static/js/3.ca6e5efd.chunk.js.map": "/react-ds-component-demo/static/js/3.ca6e5efd.chunk.js.map",
+    "main.js": "/react-ds-component-demo/static/js/main.1cb21617.chunk.js",
+    "main.js.map": "/react-ds-component-demo/static/js/main.1cb21617.chunk.js.map",
+    "polyfills-dom.js": "/react-ds-component-demo/static/js/polyfills-dom.14e360ad.chunk.js",
+    "polyfills-dom.js.map": "/react-ds-component-demo/static/js/polyfills-dom.14e360ad.chunk.js.map",
+    "runtime-main.js": "/react-ds-component-demo/static/js/runtime-main.e86b956c.js",
+    "runtime-main.js.map": "/react-ds-component-demo/static/js/runtime-main.e86b956c.js.map",
+    "static/css/3.fc280259.chunk.css": "/react-ds-component-demo/static/css/3.fc280259.chunk.css",
+    "static/js/3.807334f1.chunk.js": "/react-ds-component-demo/static/js/3.807334f1.chunk.js",
+    "static/js/3.807334f1.chunk.js.map": "/react-ds-component-demo/static/js/3.807334f1.chunk.js.map",
+    "static/js/4.5a08f4bd.chunk.js": "/react-ds-component-demo/static/js/4.5a08f4bd.chunk.js",
+    "static/js/4.5a08f4bd.chunk.js.map": "/react-ds-component-demo/static/js/4.5a08f4bd.chunk.js.map",
+    "static/js/5.35dc146d.chunk.js": "/react-ds-component-demo/static/js/5.35dc146d.chunk.js",
+    "static/js/5.35dc146d.chunk.js.map": "/react-ds-component-demo/static/js/5.35dc146d.chunk.js.map",
+    "static/js/6.607f1e11.chunk.js": "/react-ds-component-demo/static/js/6.607f1e11.chunk.js",
+    "static/js/6.607f1e11.chunk.js.map": "/react-ds-component-demo/static/js/6.607f1e11.chunk.js.map",
+    "static/js/7.e8a56cef.chunk.js": "/react-ds-component-demo/static/js/7.e8a56cef.chunk.js",
+    "static/js/7.e8a56cef.chunk.js.map": "/react-ds-component-demo/static/js/7.e8a56cef.chunk.js.map",
     "index.html": "/react-ds-component-demo/index.html",
+    "static/css/3.fc280259.chunk.css.map": "/react-ds-component-demo/static/css/3.fc280259.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-ds-component-demo/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9dbe7a97.chunk.js.LICENSE.txt": "/react-ds-component-demo/static/js/2.9dbe7a97.chunk.js.LICENSE.txt",
+    "static/js/3.807334f1.chunk.js.LICENSE.txt": "/react-ds-component-demo/static/js/3.807334f1.chunk.js.LICENSE.txt",
+    "static/js/5.35dc146d.chunk.js.LICENSE.txt": "/react-ds-component-demo/static/js/5.35dc146d.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.14e360ad.chunk.js.LICENSE.txt": "/react-ds-component-demo/static/js/polyfills-dom.14e360ad.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-ds-component-demo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f276197.js",
-    "static/js/2.9dbe7a97.chunk.js",
+    "static/js/runtime-main.e86b956c.js",
+    "static/css/3.fc280259.chunk.css",
+    "static/js/3.807334f1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.893bbf91.chunk.js"
+    "static/js/main.1cb21617.chunk.js"
   ]
 }
