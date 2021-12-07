@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gc-ds-button": "^0.0.7",
+    "gc-ds-button": "^0.0.8",
     "gh-pages": "^3.2.3"
   }
 }
